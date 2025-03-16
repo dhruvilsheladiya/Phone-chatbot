@@ -19,6 +19,12 @@ phone-chatbot/ │── backend/ │ ├── cli_chatbot.py |--- requirments.
  MISTRAL_API_KEY=your_mistral_api_key
 3. python backend/main.py
 
+# ----- Go To Frontend Folder Then you can change directory like a,
+1. cd frontend 
+2. run python cli_chatbot.py
+3. You:- What's latest phone model?
+# 4. Chatbot reply you:- Final Output!  
+
 🐳 Running with Docker:
 
 docker build -t phone-chatbot .
