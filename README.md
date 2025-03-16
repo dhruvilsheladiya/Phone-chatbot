@@ -23,7 +23,7 @@ phone-chatbot/ │── backend/ │ ├── cli_chatbot.py |--- requirments.
 1. cd frontend 
 2. run python cli_chatbot.py
 3. You:- What's latest phone model?
-# 4. Chatbot reply you:- Final Output!  
+4. Chatbot reply you:- Final Output!  
 
 🐳 Running with Docker:
 
