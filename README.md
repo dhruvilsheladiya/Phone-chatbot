@@ -23,7 +23,9 @@ phone-chatbot/ │── backend/ │ ├── cli_chatbot.py |--- requirments.
 1. cd frontend 
 2. run python cli_chatbot.py
 3. You:- What's latest phone model?
-4. Chatbot reply you:- Final Output!  
+4. Chatbot reply you:- Final Output!
+
+# I used the same 2025 phone details model, but it got cracked again, so I had to use the old version's phone details models, so it's a chatbot can be response is old details for phone realesing releted details.
 
 🐳 Running with Docker:
 
